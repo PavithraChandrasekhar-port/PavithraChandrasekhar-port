@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pacithra Chandrasekhar
+- 👋 Hi, I’m Pavithra Chandrasekhar
 - 👀 I’m a UX Designer & Developer. I'm interested in exploring various technologies in front-end development and responsible AI. 
 - 🌱 I’m currently learning JavaScript (React, Vue, 3js, D3js) & Python.
 - 📫 You can reach me on Twitter @pavithra_chandr
